@@ -1,0 +1,16 @@
+Assign 3: Thiết kế Use-Case
+Doc: Report.docx page 54 - 68.
+
+function:
+1. Gửi hố sơ tuyển dụng (luồng: Tìm kiếm ứng viên -> gửi thông tin tuyển dụng) (Recruiter) - Trang
+
+2. nộp đơn ứng tuyển (luồng tìm kiếm thông tin tuyển dụng -> nộp đơn) (Candidate) - Hiệp
+
+3. Xem hồ sơ ứng tuyển (Everyone) - Dương
+   Xem hồ sơ tuyển dụng (Everyone)
+
+4. Sửa hồ sơ tuyển dụng (Recruiter) - Huy
+   sửa hồ sơ ứng tuyển (Candidate)
+
+5  Tạo hồ sơ tuyển dụng (Recruiter) - Thu
+  Tạo hồ sơ ứng tuyển (Candidate)
